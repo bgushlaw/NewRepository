@@ -1,3 +1,3 @@
 # NewRepository
 
-Hi Trevor!
+Bye Trevor!
